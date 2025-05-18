@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/patelrudra/Downloads/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/c2217181e8cf48ef9853cd70fd959287/artifacts
+end_time: 1747594689297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2217181e8cf48ef9853cd70fd959287
+run_name: abundant-mole-71
+run_uuid: c2217181e8cf48ef9853cd70fd959287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747594687233
+status: 3
+tags: []
+user_id: patelrudra
